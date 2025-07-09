@@ -96,7 +96,7 @@ SWITCH(TRUE(),
 -- % Below ₦90k
 % Below ₦90k = 
 DIVIDE(CALCULATE(COUNTROWS('Palmoria merge'), 'Palmoria merge'[Salary] < 90000), COUNTROWS('Palmoria merge'))
-
+```
 
 ## ✅ Recommendations
 📌 Review salary structures to ensure equity across gender and performance
