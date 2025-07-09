@@ -112,6 +112,6 @@ DIVIDE(CALCULATE(COUNTROWS('Palmoria merge'), 'Palmoria merge'[Salary] < 90000),
 🙋‍♀️ Author
 Assumpta-Mary Chidimma Chianakwana
 📊 Data Analyst | Power BI | HR Insights
-📫 ![Dashboard] (www.linkedin.com/in/
+📫 ![Dashboard](www.linkedin.com/in/
 chidimma-chianakwana-1b8162247
 )
