@@ -96,3 +96,22 @@ SWITCH(TRUE(),
 -- % Below ₦90k
 % Below ₦90k = 
 DIVIDE(CALCULATE(COUNTROWS('Palmoria merge'), 'Palmoria merge'[Salary] < 90000), COUNTROWS('Palmoria merge'))
+
+
+## ✅ Recommendations
+📌 Review salary structures to ensure equity across gender and performance
+
+📌 Promote females in underrepresented, higher-paying departments
+
+📌 Investigate rating systems for potential unconscious bias
+
+📌 Raise sub-₦90k salaries to meet legal compliance (69% currently underpaid)
+
+📌 Track performance and pay equity continuously across gender and region
+
+🙋‍♀️ Author
+Assumpta-Mary Chidimma Chianakwana
+📊 Data Analyst | Power BI | HR Insights
+📫 ![Dashboard] (www.linkedin.com/in/
+chidimma-chianakwana-1b8162247
+)
