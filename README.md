@@ -109,6 +109,11 @@ DIVIDE(CALCULATE(COUNTROWS('Palmoria merge'), 'Palmoria merge'[Salary] < 90000),
 
 📌 Track performance and pay equity continuously across gender and region
 
+
+
+
+
+
 🙋‍♀️ Author
 Assumpta-Mary Chidimma Chianakwana
 
