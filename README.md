@@ -3,6 +3,7 @@
 A Power BI HR Analytics project to uncover gender-related disparities in performance, pay, and compliance at Palmoria Group, a manufacturing company based in Nigeria.
 
 📊 **Tool**: Power BI 
+
 🧩 **Data**: Employee details + Bonus rules (merged via Power Query)
 
 ---
@@ -64,15 +65,6 @@ After media backlash for gender inequality, Palmoria’s CHRO initiated an inter
 - **Males dominate** upper bands (₦100k–₦120k)
 - **Females concentrated** in ₦70k–₦90k
 
----
-
-## 🔧 Power BI Process
-
-✔️ All transformations done in **Power BI (Power Query)**  
-✔️ **Bonus Rules** unpivoted and merged with Employee Table  
-✔️ No modeling required — merged tables were cleaned and deduplicated  
-✔️ DAX measures calculated:
-
 ### 🧩 Slicers Added:
 - ✅ **Location** (Kaduna, Abuja, Lagos)
 - ✅ **Gender**
@@ -81,6 +73,14 @@ After media backlash for gender inequality, Palmoria’s CHRO initiated an inter
 - ✅ **Salary Compliance Status**
 - ✅ **Name**
 - ✅ **Salary Band**
+---
+
+## 🔧 Power BI Process
+
+✔️ All transformations done in **Power BI (Power Query)**  
+✔️ **Bonus Rules** unpivoted and merged with Employee Table  
+✔️ No modeling required — merged tables were cleaned and deduplicated  
+✔️ DAX measures calculated:
 
 ```dax
 -- Bonus % from merged table
